@@ -45,7 +45,7 @@ Booking Page
 ![Booking](screenshots/booking.png)
 
  Packages
-![Packages](screenshots/Packages.png)
+![Packages](screenshots/package.png)
 
 Custom Package Page 
 ![Custom Package](screenshots/cutompackage.png)
