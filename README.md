@@ -51,6 +51,10 @@ DJ-Cabs/
 	•	Booking management system
 
 ⸻
+🎯 Use Case
+This project is useful for small travel businesses to manage bookings and interact with customers efficiently.
+
+____
 
 👨‍💻 Author
 
