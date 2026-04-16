@@ -44,18 +44,6 @@ DJ-Cabs/
 
 ⸻
 
-📸 Screenshots
-
-(Add your project screenshots here)
-
-⸻
-
-🔗 Live Demo
-
-(Add your deployed website link here)
-
-⸻
-
 📌 Future Improvements
 	•	User login system
 	•	Online payment integration
