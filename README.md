@@ -45,10 +45,10 @@ Booking Page
 ![Booking](screenshots/booking.png)
 
  Packages
-![Packages](screenshots/packages.png)
+![Packages](screenshots/Packages.png)
 
 Custom Package Page 
-![Custom Package](screenshots/custompackage.png)
+![Custom Package](screenshots/cutompackage.png)
 
 🚀 How to Run
 	1.	Download or clone this repository
