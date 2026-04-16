@@ -36,6 +36,19 @@ DJ-Cabs/
 │── assets/
 
 ⸻
+📸 Screenshots
+
+Homepage
+![Homepage](screenshots/home.png)
+
+Booking Page
+![Booking](screenshots/booking.png)
+
+ Packages
+![Packages](screenshots/packages.png)
+
+Custom Package Page 
+![Custom Package](screenshots/custompackage.png)
 
 🚀 How to Run
 	1.	Download or clone this repository
